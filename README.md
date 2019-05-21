@@ -1,0 +1,2 @@
+# CameraDemo
+基于CameraKit框架实现仿微信拍照和录视频功能
